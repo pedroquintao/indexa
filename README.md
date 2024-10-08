@@ -25,3 +25,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Para utilizar este projeto, é necessário estar na versão 20.11.0 do Node e com Angular 17 instalados. Se por um acaso o node estiver em outra versão, é necessário instalar o Node Version Manager, pelo link: https://github.com/coreybutler/nvm-windows/releases e controlar as versões.
